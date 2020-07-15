@@ -13,3 +13,5 @@ Next you must press ctrl-alt-F1 to enter a TTY console (hold alt and press left 
 Navigate to the directory you downloaded or cloned the repository to.
 Then simply run the build.sh script to compile the demo program.
 Once that completes, run the resulting FBG_Demo program and enjoy the graphics.
+
+If you enjoyed this, feel free to use the code for anything you like.
